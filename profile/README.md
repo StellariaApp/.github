@@ -46,8 +46,8 @@ Follow us on social media for updates and news:
 
 At Stellaria, we're using Artificial Intelligence to innovate and create a better future. Join us on this exciting journey.
 
-**The Stellaria Team**
+**The Comet Team**
 
-[![Willishakespeare](https://avatars.githubusercontent.com/u/95162949?v=3)](https://github.com/WillishakespeareSKR13)
+<a href="https://github.com/WillishakespeareSKR13"><img src="https://avatars.githubusercontent.com/u/95162949?v=3" title="Willishakespeare" width="50" height="50"></a>
 
 Developed with ❤️ by [Stellaria](https://stellaria.app)
